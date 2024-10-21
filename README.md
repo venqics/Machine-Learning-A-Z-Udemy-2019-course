@@ -2,4 +2,4 @@
 
 Machine Learning A-Z Udemy Course: 2019 course modules assignments and projects.
 
-[https://www.udemy.com/course/machinelearning/?couponCode=ACCAGE0923](url)
+([https://www.udemy.com/course/machinelearning/?couponCode=ACCAGE0923])
